@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hepsiburada", "hepsiburada\hepsiburada.csproj", "{917BE789-027F-454C-A956-10B6FE89F580}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hepsiburada.Tests", "hepsiburada.Tests\hepsiburada.Tests.csproj", "{A814F1E0-5EB9-4E02-A62A-316970F0E1FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{B5297C2B-27A4-4751-89E8-6CB1BAC3C3FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{917BE789-027F-454C-A956-10B6FE89F580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{917BE789-027F-454C-A956-10B6FE89F580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{917BE789-027F-454C-A956-10B6FE89F580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{917BE789-027F-454C-A956-10B6FE89F580}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A814F1E0-5EB9-4E02-A62A-316970F0E1FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A814F1E0-5EB9-4E02-A62A-316970F0E1FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A814F1E0-5EB9-4E02-A62A-316970F0E1FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A814F1E0-5EB9-4E02-A62A-316970F0E1FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5297C2B-27A4-4751-89E8-6CB1BAC3C3FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5297C2B-27A4-4751-89E8-6CB1BAC3C3FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5297C2B-27A4-4751-89E8-6CB1BAC3C3FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5297C2B-27A4-4751-89E8-6CB1BAC3C3FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6EF058B-EEA7-4DF2-8BDD-66B2CEADCC77}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = hepsiburada\hepsiburada.csproj
+	EndGlobalSection
+EndGlobal
